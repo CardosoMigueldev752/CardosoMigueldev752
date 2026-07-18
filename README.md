@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 SOBRE MIM:
 Olá! Sou um desenvolvedor apaixonado do Rio de Janeiro, Brasil — Programo desde os 15 anos e, ao longo do tempo, construí uma base sólida em Python e JavaScript. No momento, estou ampliando minhas habilidades estudando HTML5 e CSS, com o objetivo de me tornar um desenvolvedor Full Stack completo. Estou sempre em busca de aprender novas tecnologias, assumir projetos desafiadores e me conectar com outros desenvolvedores nessa jornada.
 
 
