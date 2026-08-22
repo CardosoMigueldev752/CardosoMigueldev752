@@ -40,4 +40,4 @@ Sou desenvolvedor autodidata, apaixonado por programação, sistemas Linux e des
 
 ---
 
-📫 Como me encontrar: **[GitHub](https://github.com/CardosoMigueldev752)** · **[Instagram](https://instagram.com/CardosoMigueldev752)**
+📫 Como me encontrar: **[GitHub](https://github.com/CardosoMigueldev752)** · **[Instagram](https://instagram.com/cardoso.dev752)**
