@@ -1,8 +1,8 @@
-# 👋 Miguel Cardoso
+# 👋 Miguel França Cardoso
 
 **Desenvolvedor**
 
-Sou desenvolvedor autodidata, apaixonado por programação, sistemas Linux e desenvolvimento de jogos. Atualmente trabalho com desenvolvimento web freelance, estudo C e Python, e desenvolvo um mod para Terraria usando tModLoader e C#. Uso Linux (Debian) no dia a dia e também pratico jiu-jitsu.
+Sou desenvolvedor autodidata, apaixonado por programação, sistemas Linux e desenvolvimento de jogos. Atualmente trabalho com desenvolvimento web freelance, estudo C e Python, e desenvolvo um mod para Terraria usando tModLoader e C#. Uso Linux (Debian) no dia a dia e também pratico jiu-jitsu e Muay Thai.
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-CardosoMigueldev752-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/CardosoMigueldev752)
 [![GitHub followers](https://img.shields.io/github/followers/CardosoMigueldev752?style=for-the-badge&label=SEGUIDORES&color=blue)](https://github.com/CardosoMigueldev752)
