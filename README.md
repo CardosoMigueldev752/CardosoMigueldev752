@@ -19,7 +19,7 @@ Sou desenvolvedor autodidata, apaixonado por programação, sistemas Linux e des
 
 ## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CardosoMigueldev752&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=3600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/!username=CardosoMigueldev752&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=3600)
 
 ---
 
