@@ -15,4 +15,4 @@ Desenvolvedor<br><br>Sou desenvolvedor autodidata, apaixonado por programação,
 ---
 [![](https://komarev.com/ghpvc/?username=CardosoMigueldev752&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
