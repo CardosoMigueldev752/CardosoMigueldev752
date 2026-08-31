@@ -12,7 +12,7 @@ Sou desenvolvedor autodidata, apaixonado por programação, sistemas Linux e des
 ## 🛠️ Linguagens e Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,python,linux,csharp,cursor,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,python,linux,vscode" />
 </p>
 
 ---
